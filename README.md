@@ -10,10 +10,10 @@
 </h3>
 
 **LinkedIn**
-`https://github.com/LocaMartin/gitdatabase/blob/main/Linkedin.png`
+
 
 **GitNotes**
-`https://github.com/LocaMartin/gitdatabase/blob/main/20240530_122911.png`
+`https://github.com/LocaMartin/gitdatabase/blob/main/resources/gitnotes.png`
 
 **Github Logo**
 `https://github.com/LocaMartin/gitdatabase/blob/main/resources/github.png`
