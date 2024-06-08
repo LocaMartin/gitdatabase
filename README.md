@@ -14,3 +14,6 @@
 
 **GitNotes**
 `https://github.com/LocaMartin/gitdatabase/blob/main/20240530_122911.png`
+
+**Github Logo**
+`https://github.com/LocaMartin/gitdatabase/blob/main/resources/github.png`
