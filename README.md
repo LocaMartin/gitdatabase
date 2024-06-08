@@ -5,12 +5,12 @@
 
 <h3 align="left" style="padding: 10px; margin: 0;">
   <a href="https://www.linkedin.com/in/lokanath-pradhan-014ab2278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> 
-    <img src="https://github.com/LocaMartin/gitdatabase/blob/main/Linkedin.png" width="100" alt="LinkedIn">
+    <img src="https://github.com/LocaMartin/gitdatabase/blob/main/resources/Linkedin.png" width="100" alt="LinkedIn">
   </a>
 </h3>
 
 **LinkedIn**
-
+`https://github.com/LocaMartin/gitdatabase/blob/main/resources/Linkedin.png`
 
 **GitNotes**
 `https://github.com/LocaMartin/gitdatabase/blob/main/resources/gitnotes.png`
